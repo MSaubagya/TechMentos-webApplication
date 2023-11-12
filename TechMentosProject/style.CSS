@@ -1,0 +1,53 @@
+       body {font-family:Arial, Helvetica , sans-serif;}
+      
+      
+             
+             .AA {overflow: hidden;
+                      background-color:#F1C40F ;overflow: hidden;
+                      background-color:#F1C40F ;voverflow: hidden;
+                      background-color:#F1C40F #FFBF00;
+                      }
+             .AA a {
+                     float: left;
+                      color: white;
+                      text-align: center;
+                      padding: 16px 20px;
+                      text-decoration: none;
+                      font-size: 19px;}
+                      
+               .center a {
+                      float:center;
+                      color: white;
+                      text-align: center;
+                      padding: 16px 20px;
+                      text-decoration: none;
+                      font-size: 19px;}       
+                      
+                .AA b {
+                      float:center;
+                      color: white;
+                      text-align: center;
+                      padding: 16px 20px;
+                      text-decoration: none;
+                      font-size: 19px;}        
+                      
+            
+              input {text-align:left;}
+              
+              .AA .search-container {
+                     float: right;
+                          }
+               .AA input[type=text] {
+                    padding: 6px;
+                    margin-top: 8px;
+                    font-size: 17px;
+                 }
+              .AA .search-container button{
+                float:left;
+                padding:8px 12px;
+                margin-top:10px;
+                margin-right:20px;
+                background:black;
+                cursor:pointer;
+                font-size:20px;
+                }
